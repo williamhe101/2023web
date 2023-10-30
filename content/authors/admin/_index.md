@@ -36,9 +36,9 @@ education:
     - course: Bachelor in Science in Electrical Engineering
       institution: The University of Texas at Dallas
       year: 2023
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Courses Taken:
+      institution: Integrated Circuit Technology, Intro to Wireless Communication, Senior Design Project II, Systems and Controls, RF Circuit Design Principles, Embedded Systems, Electronic Circuits, EE & CE Lab in Devices, Electromagnetic Engineering I, Computer Architecture, Systems and Controls, Advanced Engineering Math, Probability Theory & Statistics
+      year: 2019-2023
 
 
 # Skills
@@ -70,12 +70,12 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Pets
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Cinematography
         description: ''
         percent: 80
         icon: camera-retro
@@ -89,21 +89,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/williamhe101
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/willhe10
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -115,5 +106,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+William He is a graduating student of Electrical Engineering at The University of Texas at Dallas. His interests include radio frequency applications (RF), PCBs, and computer hardware. Aside from all this, he particularly enjoys having fun with friends and learning more about psychology to better appreciate the world.
+
 {style="text-align: justify;"}
