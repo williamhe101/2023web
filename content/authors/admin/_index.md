@@ -36,8 +36,9 @@ education:
     - course: Bachelor in Science in Electrical Engineering
       institution: The University of Texas at Dallas
       year: 2023
-    - course: Courses Taken:
+    - course: Courses Taken
       institution: Integrated Circuit Technology, Intro to Wireless Communication, Senior Design Project II, Systems and Controls, RF Circuit Design Principles, Embedded Systems, Electronic Circuits, EE & CE Lab in Devices, Electromagnetic Engineering I, Computer Architecture, Systems and Controls, Advanced Engineering Math, Probability Theory & Statistics
+      year: 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
