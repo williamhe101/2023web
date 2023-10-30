@@ -82,21 +82,14 @@ sections:
           date_start: '2021-08-21'
           date_end: '2022-05-31'
           description: Assisted in testing and developing LTE cellular IoT and Bluetooth/BLE products. Facilitated the manufacturing and schematic design process for modules, packages, circuit boards, and PCBs. Debugged issues and contributed to issue resolution during testing. Conducted battery quality assurance (QA) assessments. Produced research analysis reports and end-user product presentations.
-      items:
-        - title: RF Hardware Engineer Assistant
-          company: Murata Electronics
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: Carrollton, Texas
-          date_start: '2021-08-21'
-          date_end: '2022-05-31'
-          description: 
-            - Assisted in testing and developing LTE cellular IoT and Bluetooth/BLE products.
-            - Facilitated the manufacturing and schematic design process for modules, packages, circuit boards, and PCBs.
-            - Debugged issues and contributed to issue resolution during testing.
-            - Conducted battery quality assurance (QA) assessments.
-            - Produced research analysis reports and end-user product presentations.
-
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -258,10 +251,6 @@ sections:
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
