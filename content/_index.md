@@ -58,6 +58,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+title: Dell ISG Hardware Engineering Intern
+          company: Dell Technologies
+          company_url: ''
+          company_logo: dell
+          location: Carrollton, Texas
+          date_start: '2021-06-06'
+          date_end: '2021-08-20'
+          description:
+              Infrastructure Solutions Group Hardware Engineering Intern for Summer 2022. 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -66,32 +75,6 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: RF Hardware Engineer Assistant
-          company: Murata Electronics
-          company_url: ''
-          company_logo: org-x
-          location: Carrollton, Texas
-          date_start: '2021-08-21'
-          date_end: '2022-05-31'
-          description: Assisted in testing and developing LTE cellular IoT and Bluetooth/BLE products. Facilitated the manufacturing and schematic design process for modules, packages, circuit boards, and PCBs. Debugged issues and contributed to issue resolution during testing. Conducted battery quality assurance (QA) assessments. Produced research analysis reports and end-user product presentations.
-      items:
-        - title: RF Hardware Engineer Assistant
-          company: Murata Electronics
-          company_url: ''
-          company_logo: org-x
-          location: Carrollton, Texas
-          date_start: '2020-07-01'
-          date_end: '2020-08-15'
-          description: Troubleshot and performed maintenance, computer optimization, and hardware and software installations. Repaired Windows and OSX-based systems, including laptops, tablets, and desktop computers, as well as Android and iOS-based devices. Delivered high-quality customer service and provided solution-based experiences.
-
     design:
       columns: '2'
   - block: accomplishments
