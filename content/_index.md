@@ -88,14 +88,9 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Carrollton, Texas
-          date_start: '2021-08-21'
-          date_end: '2022-05-31'
-          description: 
-            - Assisted in testing and developing LTE cellular IoT and Bluetooth/BLE products.
-            - Facilitated the manufacturing and schematic design process for modules, packages, circuit boards, and PCBs.
-            - Debugged issues and contributed to issue resolution during testing.
-            - Conducted battery quality assurance (QA) assessments.
-            - Produced research analysis reports and end-user product presentations.
+          date_start: '2020-07-01'
+          date_end: '2020-08-15'
+          description: Troubleshot and performed maintenance, computer optimization, and hardware and software installations. Repaired Windows and OSX-based systems, including laptops, tablets, and desktop computers, as well as Android and iOS-based devices. Delivered high-quality customer service and provided solution-based experiences.
 
     design:
       columns: '2'
