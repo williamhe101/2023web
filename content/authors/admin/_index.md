@@ -22,7 +22,7 @@ organizations:
     url: [https://www.utdallas.edu]
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include hardware engineering, exploring the tech field, and good food.
+bio: My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to better appreciate the world.
 
 # Interests to show in About widget
 interests:
@@ -38,7 +38,6 @@ education:
       year: 2023
     - course: Courses Taken:
       institution: Integrated Circuit Technology, Intro to Wireless Communication, Senior Design Project II, Systems and Controls, RF Circuit Design Principles, Embedded Systems, Electronic Circuits, EE & CE Lab in Devices, Electromagnetic Engineering I, Computer Architecture, Systems and Controls, Advanced Engineering Math, Probability Theory & Statistics
-
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -104,7 +103,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-William He is a graduating student of Electrical Engineering at The University of Texas at Dallas. His interests include radio frequency applications (RF), PCBs, and computer hardware. Aside from all this, he particularly enjoys having fun with friends and learning more about psychology to better appreciate the world.
-
-{style="text-align: justify;"}
