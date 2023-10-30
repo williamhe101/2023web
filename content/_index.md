@@ -237,6 +237,7 @@ sections:
       email: jiajunhe10@gmail.com
       phone: 832 762 7485
       address:
+        street: 
         city: Dallas
         region: TX
         postcode: '75081'
