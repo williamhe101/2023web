@@ -58,11 +58,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Signal Integrity/Power Integrity Intern
+          company: Advanced Micro Devices (AMD)
           company_url: ''
           company_logo: org-x
-          location: California
+          location: California/Texas
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
@@ -89,7 +89,7 @@ sections:
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Troubleshot and performed maintenance, computer optimization, and hardware and software installations. Repaired Windows and OSX-based systems, including laptops, tablets, and desktop computers, as well as Android and iOS-based devices. Delivered high-quality customer service and provided solution-based experiences.
     design:
       columns: '2'
   - block: accomplishments
