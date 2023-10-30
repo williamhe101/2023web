@@ -103,4 +103,7 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+ My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
+{style="text-align: justify;"}
 ---
