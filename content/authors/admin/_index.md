@@ -81,8 +81,6 @@ skills:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for the contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -102,7 +100,6 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+---
 
 My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
-
----
