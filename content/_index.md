@@ -58,15 +58,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-title: Dell ISG Hardware Engineering Intern
-          company: Dell Technologies
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
-          company_logo: dell
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: RF Hardware Engineer Assistant
+          company: Murata Electronics
+          company_url: ''
+          company_logo: org-x
           location: Carrollton, Texas
-          date_start: '2021-06-06'
-          date_end: '2021-08-20'
-          description:
-              Infrastructure Solutions Group Hardware Engineering Intern for Summer 2022. 
+          date_start: '2021-08-21'
+          date_end: '2022-05-31'
+          description: Assisted in testing and developing LTE cellular IoT and Bluetooth/BLE products. Facilitated the manufacturing and schematic design process for modules, packages, circuit boards, and PCBs. Debugged issues and contributed to issue resolution during testing. Conducted battery quality assurance (QA) assessments. Produced research analysis reports and end-user product presentations.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
