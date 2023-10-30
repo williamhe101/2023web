@@ -19,16 +19,16 @@ role: Graduating Student in Electrical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The University of Texas at Dallas
-    url: [https://www.utdallas.edu]
+    url: https://www.utdallas.edu
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at the end of posts)
 bio: My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
 
 # Interests to show in About widget
 interests:
-- Gaming on PC
-- Movies/Shows
-- Getting into working out/hiking
+  - Gaming on PC
+  - Movies/Shows
+  - Getting into working out/hiking
 
 # Education to show in About widget
 education:
@@ -38,7 +38,6 @@ education:
       year: 2023
     - course: Courses Taken
       institution: Integrated Circuit Technology, Intro to Wireless Communication, Senior Design Project II, Systems and Controls, RF Circuit Design Principles, Embedded Systems, Electronic Circuits, EE & CE Lab in Devices, Electromagnetic Engineering I, Computer Architecture, Systems and Controls, Advanced Engineering Math, Probability Theory & Statistics
-      year:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -83,7 +82,7 @@ skills:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for the contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -104,6 +103,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
- My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
-{style="text-align: justify;"}
+My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
+
 ---
