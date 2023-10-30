@@ -38,7 +38,6 @@ education:
       year: 2023
     - course: Courses Taken:
       institution: Integrated Circuit Technology, Intro to Wireless Communication, Senior Design Project II, Systems and Controls, RF Circuit Design Principles, Embedded Systems, Electronic Circuits, EE & CE Lab in Devices, Electromagnetic Engineering I, Computer Architecture, Systems and Controls, Advanced Engineering Math, Probability Theory & Statistics
-      year: 2019-2023
 
 
 # Skills
