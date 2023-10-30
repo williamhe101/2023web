@@ -22,7 +22,7 @@ organizations:
     url: [https://www.utdallas.edu]
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to better appreciate the world.
+bio: My interests include radio frequency applications (RF), PCBs, and computer hardware. I also enjoy having fun with friends and learning more about psychology to appreciate the world better.
 
 # Interests to show in About widget
 interests:
@@ -45,19 +45,19 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: 2D/3D PCB Design
         description: ''
-        percent: 80
+        percent: 75
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Radio Frequency (RF)
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Leadership
         description: ''
-        percent: 40
+        percent: 83
         icon: database
         icon_pack: fas
   - name: Hobbies
